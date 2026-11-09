@@ -1,0 +1,7 @@
+{
+  "name": "Social Media Master",
+  "description": "Plataforma completa de gestão, criação de conteúdo com IA, calendário editorial e analytics para redes sociais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
